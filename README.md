@@ -39,7 +39,7 @@ Rule1) start frame index of an turn action is found by observing turn signal, st
     (2) rate of change in speed shows an increasing or decreasing pattern in time
     (3) center line of the vehicle begins to deviate from the center of the lane
 
-Rule2) end frame index of an turn action corresponds to the frame index where the three blue guidelines are all inside the target lane (see the bottom-row of the figure)
+Rule2) end frame index of an turn action corresponds to the index where the three blue guidelines are all inside the target lane (see the bottom-row of the figure)
 
 
 ## Dataset Folder Structure
