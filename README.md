@@ -29,7 +29,7 @@ The tool visualizes all the information about the current state of the vehicle a
     (d) guidelines corresponding to the left side, center line, and right side of the vehicle
     (e) future trajectory up to 2 sec
 
-The annotators were instructed to find the start and end frame indices of an action based upon the information and their memories of driving. We also made the labeling guidelines on how to find the start and end frame indices of an action. The following is the brief description of the guideline for 'Turn' label (If you want to know details, contact d1024.choi@etri.re.kr).
+The annotators were instructed to find the start and end frame indices of the actions based upon the information and their memories of driving. We also made the labeling guidelines on how to find the start and end frame indices of an action. The following is the brief description of the guideline for 'Turn' label (If you want to know details, contact d1024.choi@etri.re.kr).
 
 ![annot2](./images/annot2.png)
 
