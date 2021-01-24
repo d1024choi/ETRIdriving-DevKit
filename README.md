@@ -10,7 +10,7 @@
 ![supple_fig1](./images/supple_fig1.png)
 
 
-## News
+## Notice
 + [21-01-24] We open some sequences to the public. (Links for the download can be found at the end of this webpage.) The rest of the sequences will be open to the public as soon as possible.
 
 
