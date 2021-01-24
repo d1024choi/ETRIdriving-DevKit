@@ -13,13 +13,6 @@
 ## Notice
 + [21-01-24] We open some sequences to the public. (Links for the download can be found at the end of this webpage.) The rest of the sequences will be open to the public as soon as possible.
 
-
-## Characteristics
-We show in the figure below the distributions of the dataset with respect to time, driving actions, and localization accuracy. Note that (c) shows the normalized histogram of the standard deviation of the localization error (centimeter).
-
-![supple_fig2](./images/supple_fig2.png)
-
-
 ## Annotation (To-be-updated)
 Three annotators, who had driven the vehicle, assigned one of the nine actions to each frame of the dataset. The annotators used the tool, which we developed based on PyQt, for the labeling process. The figure below shows an screen shot of the tool.
 
@@ -46,6 +39,12 @@ Rule1) start frame index of an turn action is found by observing turn signal, st
 Rule2) end frame index of an turn action corresponds to the index where the three blue guidelines are all inside the target lane (see the bottom-row of the figure)
 
 
+## Characteristics
+We show in the figure below the distributions of the dataset with respect to time, driving actions, and localization accuracy. Note that (c) shows the normalized histogram of the standard deviation of the localization error (centimeter).
+
+![supple_fig2](./images/supple_fig2.png)
+
+
 ## Dataset Folder Structure
 The sequences are named with 4-digits numbers (from 0000 to 0131). The raw data corresponding to a sequence is stored in a folder named after the sequence number. The figure below shows the folder structure for **0019**.
 
@@ -69,7 +68,6 @@ $ python example.py
 We show some visualization examples in the figure below.
 ![supple_fig3](./images/supple_fig3.png)
 
+
 ## Download (To-be-updated)
 For sharing the sequences in the dataset, we have been applying some image processings (bluring face and license plate) to the front-view images in the sequences. 
-
-
