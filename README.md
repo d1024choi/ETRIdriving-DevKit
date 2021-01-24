@@ -10,6 +10,10 @@
 ![supple_fig1](./images/supple_fig1.png)
 
 
+## News
++ [21-01-24] We open some sequences to the public. (Links for the download can be found at the end of this webpage.) The rest of the sequences will be open to the public as soon as possible.
+
+
 ## Characteristics
 We show in the figure below the distributions of the dataset with respect to time, driving actions, and localization accuracy. Note that (c) shows the normalized histogram of the standard deviation of the localization error (centimeter).
 
