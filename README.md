@@ -70,4 +70,6 @@ We show some visualization examples in the figure below.
 ![supple_fig3](./images/supple_fig3.png)
 
 ## Download (To-be-updated)
-For sharing the whole dataset, we have been applying some image processings (bluring face and license plate) to the front-view images. 
+For sharing the sequences in the dataset, we have been applying some image processings (bluring face and license plate) to the front-view images in the sequences. 
+
+
