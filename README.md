@@ -4,7 +4,7 @@
 [**Click the image above for video play!!**]
 
 ## Introduction
-**ETRIDriving** is the autonomous driving dataset labeled with discrete high-level driving actions of the ego-vehicle. To assemble **ETRIDriving**, we first collected raw data from sensors mounted on the vehicle (two front-facing cameras, a Lidar scanner (OUSTER, OS1-64), GPS/IMU (Spatial FOG Dual), and CAN) at 10Hz while driving. Next, the raw data was processed to be in data formats readable at common PC operating systems. After synchronizing the processed data, we assigned one of the nine actions (**Go, Turn Left/Right, U-Turn, Left/Right Lane Change, Avoidance, Left/Right Way**) to every frame in the data manually. There are 129 sequences of length 10 minutes in **ETRIDriving** and the sequences were collected by three drivers in Daejeon City during 9AM~9PM, on sunny and cloudy day, from August 2019 to December 2019.
+**ETRIDriving** is the autonomous driving dataset labeled with discrete high-level driving actions of the ego-vehicle. To assemble **ETRIDriving**, we collected raw data from sensors mounted on the vehicle (two front-facing cameras, a Lidar scanner (OUSTER, OS1-64), GPS/IMU (Spatial FOG Dual), and CAN) at 10Hz while driving. The raw data was processed to be in data formats readable at common PC operating systems. After synchronizing the processed data, we assigned one of the nine actions (**Go, Turn Left/Right, U-Turn, Left/Right Lane Change, Avoidance, Left/Right Way**) to every frame in the data manually. There are 129 sequences of length 10 minutes in **ETRIDriving** and the sequences were collected by three drivers in Daejeon City during 9AM~9PM, on sunny and cloudy day, from August 2019 to December 2019.
 
 
 ![supple_fig1](./images/supple_fig1.png)
