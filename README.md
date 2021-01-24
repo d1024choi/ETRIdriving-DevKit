@@ -3,15 +3,15 @@
 [![Video Label](./images/screen_shot_etridriving.jpg)](https://youtu.be/cYyecNvo1Pg)
 [**Click the image above for video play!!**]
 
+## Notice
++ [21-01-24] We open some sequences to the public. (Links for the download can be found at the end of this webpage.) The rest of the sequences will be open to the public as soon as possible.
+
 ## Introduction
 **ETRIDriving** is the autonomous driving dataset labeled with discrete high-level driving actions of the ego-vehicle. To assemble **ETRIDriving**, we collected raw data from sensors mounted on the vehicle (two front-facing cameras, a Lidar scanner (OUSTER, OS1-64), GPS/IMU (Spatial FOG Dual), and CAN) at 10Hz while driving. The raw data was processed to be in data formats readable at common PC operating systems. After synchronizing the processed data, we assigned one of the nine actions (**Go, Turn Left/Right, U-Turn, Left/Right Lane Change, Avoidance, Left/Right Way**) to every frame in the data manually. There are 129 sequences of length 10 minutes in **ETRIDriving** and the sequences were collected by three drivers in Daejeon City during 9AM~9PM, on sunny and cloudy day, from August 2019 to December 2019.
 
 
 ![supple_fig1](./images/supple_fig1.png)
 
-
-## Notice
-+ [21-01-24] We open some sequences to the public. (Links for the download can be found at the end of this webpage.) The rest of the sequences will be open to the public as soon as possible.
 
 ## Annotation (To-be-updated)
 Three annotators, who had driven the vehicle, assigned one of the nine actions to each frame of the dataset. The annotators used the tool, which we developed based on PyQt, for the labeling process. The figure below shows an screen shot of the tool.
@@ -71,3 +71,6 @@ We show some visualization examples in the figure below.
 
 ## Download (To-be-updated)
 For sharing the sequences in the dataset, we have been applying some image processings (bluring face and license plate) to the front-view images in the sequences. 
+
++ Seq 0000 https://drive.google.com/file/d/1GNBSUQkZKSQQQso2Uek9SGDdw3WLt3o1/view?usp=sharing 
+
