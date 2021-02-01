@@ -14,7 +14,7 @@
 
 
 ## Annotation (To-be-updated)
-Three annotators, who had driven the vehicle, assigned one of the nine actions to each frame of the dataset. The annotators used the tool, which we developed based on PyQt, for the labeling process. The figure below shows an screen shot of the tool.
+Three annotators, who had driven the vehicle, assigned one of the nine actions to each frame of the dataset. The annotators used the tool, which we developed based on PyQt, for the labeling process. The figure below shows a screen shot of the tool.
 
 ![annot1](./images/annot1.png)
 
