@@ -22,7 +22,7 @@ The tool visualizes all the information about the current state of the vehicle a
 
     (a) frame index, turn signal, steering angle, vehicle speed, GPS accuracy
     (b) visualization of steering angle 
-    (c) visualization of rate of change in speed (at current, previous, and previous previous frame index)
+    (c) visualization of rate of change in steering angle (at current, previous, and previous previous frame index)
     (d) guidelines corresponding to the left side, center line, and right side of the vehicle
     (e) future trajectory up to 2 sec
 
