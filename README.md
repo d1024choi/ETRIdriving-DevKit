@@ -33,7 +33,7 @@ The annotators were instructed to find the start and end frame indices of the ac
 Rule1) start frame index of an turn action is found by observing turn signal, steering angle, rate of change in speed, future trajectory, and blue guidelines. Around the start frame index, it is usually found that (see the upper-row of the figure)
 
     (1) turn signal turns on
-    (2) rate of change in speed shows an increasing or decreasing pattern in time
+    (2) rate of change in steering angle shows an increasing or decreasing pattern in time
     (3) center line of the vehicle begins to deviate from the center of the lane
 
 Rule2) end frame index of an turn action corresponds to the index where the three blue guidelines are all inside the target lane (see the bottom-row of the figure)
