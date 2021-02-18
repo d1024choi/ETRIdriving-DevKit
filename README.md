@@ -5,7 +5,7 @@
 
 ## Notice
 + [21-01-24] We open some sequences to the public. Links for the download can be found at the end of this webpage. We will release the rest of the sequences as soon as possible.
-+ [21-02-19] We found that some license plates and faces were missed during the blurring process. This dataset is made available for academic use only. However, we take your privacy seriously! If you find yourself or personal belongings in this dataset and feel unwell about it, please contact (d1024.choi@etri.re.kr) and we will immediately remove the respective data from our server.
++ [21-02-19] We found that we missed some license plates and faces during the blurring process. We are now trying to fix it. If you find yourself or personal belongings in this dataset and feel unwell about it, please contact (d1024.choi@etri.re.kr) and we will immediately remove the respective data.
 
 ## Introduction
 **ETRIDriving** is the autonomous driving dataset labeled with discrete high-level driving actions of the ego-vehicle. To assemble **ETRIDriving**, we collected raw data from sensors mounted on the vehicle (two front-facing cameras, a Lidar scanner (OUSTER, OS1-64), GPS/IMU (Spatial FOG Dual), and CAN) at 10Hz while driving. The raw data was processed to be in data formats readable at common PC operating systems. After synchronizing the processed data, we assigned one of the nine actions (**Go, Turn Left/Right, U-Turn, Left/Right Lane Change, Avoidance, Left/Right Way**) to every frame in the data manually. There are 129 sequences of length 10 minutes in **ETRIDriving** and the sequences were collected by three drivers in Daejeon City during 9AM~9PM, on sunny and cloudy day, from August 2019 to December 2019.
@@ -82,4 +82,4 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0067 https://drive.google.com/file/d/1jwR1wNjQ_xfAZ6LZyyMXfjAcWMhdqf59/view?usp=sharing
 
 ## Copyright
-ETRIDriving is copyrighted by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. This means that you may not use this dataset for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
+ETRIDriving is made available for academic use only. ETRIDriving is copyrighted by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. This means that you may not use this dataset for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
