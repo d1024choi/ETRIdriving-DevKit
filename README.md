@@ -75,7 +75,7 @@ For sharing the sequences in the dataset, we have been applying some image proce
 
 + Seq 0000 https://drive.google.com/file/d/1CLGkooc-_EDUqf4tV_HrRy7xe5aoWt0_/view?usp=sharing (inspected!) 
 + Seq 0004 https://drive.google.com/file/d/1w_-BxARRArAasanxUk0wWtBtohQlb4k_/view?usp=sharing (inspected!) 
-+ Seq 0019 https://drive.google.com/file/d/1Di3gFCCM-Hma7Dr09XxdMAuO-JxIE3Ik/view?usp=sharing
++ Seq 0019 https://drive.google.com/file/d/1vhc2E7OrAKoh6Yb9J6cPTTclG-RahQJu/view?usp=sharing (inspected!) 
 + Seq 0027 https://drive.google.com/file/d/1bWl8Nf9HNd6JVRlm4LYLHhQh01ht8Kl8/view?usp=sharing (inspected!)
 + Seq 0032 https://drive.google.com/file/d/1WSv_Tn6nDRsga8uKlWrdt2YiaQWtHFUE/view?usp=sharing
 + Seq 0047 https://drive.google.com/file/d/1SYm5_IgvGeM3KCIsoIj1avDjKFp4inbP/view?usp=sharing
