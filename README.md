@@ -79,7 +79,7 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0027 https://drive.google.com/file/d/1bWl8Nf9HNd6JVRlm4LYLHhQh01ht8Kl8/view?usp=sharing (inspected!)
 + Seq 0032 https://drive.google.com/file/d/1nRSbFSAKliclq4V0Ij1xRm-F2ChGvnGO/view?usp=sharing (inspected!) 
 + Seq 0047 https://drive.google.com/file/d/1GmyIkCUoR6g-i_fj38ifbUr4KP44M-v1/view?usp=sharing (inspected!)
-+ Seq 0067 https://drive.google.com/file/d/1jwR1wNjQ_xfAZ6LZyyMXfjAcWMhdqf59/view?usp=sharing
++ Seq 0067 https://drive.google.com/file/d/1zo7sfanQJvtEzsMBv7beAfQlB57AhYUm/view?usp=sharing (inspected!)
 
 ## Copyright
 ETRIDriving is made available for academic use only. ETRIDriving is copyrighted by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. This means that you may not use this dataset for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
