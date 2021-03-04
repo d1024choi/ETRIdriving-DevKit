@@ -81,5 +81,15 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0047 https://drive.google.com/file/d/1GmyIkCUoR6g-i_fj38ifbUr4KP44M-v1/view?usp=sharing (inspected!)
 + Seq 0067 https://drive.google.com/file/d/1zo7sfanQJvtEzsMBv7beAfQlB57AhYUm/view?usp=sharing (inspected!)
 
+## Citation
+```
+@article{Choi,
+author = {D. Choi and S.-J. Han and K. Min and J. Choi},
+title = {PathGAN: Local Path Planning with Attentive Generative Adversarial Networks},
+book = {arXiv:2007.03877},
+year = 2021
+}
+```
+
 ## Copyright
 ETRIDriving is made available for academic use only. ETRIDriving is copyrighted by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. This means that you may not use this dataset for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
