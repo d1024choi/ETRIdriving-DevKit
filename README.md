@@ -91,7 +91,7 @@ For sharing the sequences in the dataset, we have been applying some image proce
 @article{Choi,
 author = {D. Choi and S.-J. Han and K. Min and J. Choi},
 title = {PathGAN: Local Path Planning with Attentive Generative Adversarial Networks},
-book = {arXiv:2007.03877},
+journal = {arXiv:2007.03877},
 year = 2021
 }
 ```
