@@ -81,7 +81,9 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0019 https://drive.google.com/file/d/1vhc2E7OrAKoh6Yb9J6cPTTclG-RahQJu/view?usp=sharing 
 + Seq 0021 https://drive.google.com/file/d/1zDhUYtJg0GKy2ZIyq5ERB9fRx_Gfn2K0/view?usp=sharing
 + Seq 0023 https://drive.google.com/file/d/1xMZXuf8sn4oEPaDQPk-sePcVeNGknG6s/view?usp=sharing
++ Seq 0024 https://drive.google.com/file/d/1z-g_OZ3jnd_Qs5q6kLmGHC60jRwsqScC/view?usp=sharing
 + Seq 0027 https://drive.google.com/file/d/1bWl8Nf9HNd6JVRlm4LYLHhQh01ht8Kl8/view?usp=sharing 
++ Seq 0028 https://drive.google.com/file/d/1L5Euj_-uMJ087LNxIIlIFGt0tH--dTdp/view?usp=sharing
 + Seq 0032 https://drive.google.com/file/d/1nRSbFSAKliclq4V0Ij1xRm-F2ChGvnGO/view?usp=sharing 
 + Seq 0046 https://drive.google.com/file/d/1C0_YTqbxWt1PQUpd8fRWO_araglcMFQI/view?usp=sharing
 + Seq 0047 https://drive.google.com/file/d/1GmyIkCUoR6g-i_fj38ifbUr4KP44M-v1/view?usp=sharing 
