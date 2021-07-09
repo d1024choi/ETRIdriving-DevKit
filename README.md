@@ -100,7 +100,8 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0058 https://drive.google.com/file/d/12AUjSAVTfz2oz599i3BOM-BR3Awkggqb/view?usp=sharing
 + Seq 0061 https://drive.google.com/file/d/1lPBhTVheEr02AtBSFerFouw-f4_8Puxm/view?usp=sharing
 + Seq 0064 https://drive.google.com/file/d/1bMLOH7hUzc9YjHjZQ7dy3TpYGTD8-htg/view?usp=sharing
-+ Seq 0067 https://drive.google.com/file/d/1zo7sfanQJvtEzsMBv7beAfQlB57AhYUm/view?usp=sharing 
++ Seq 0067 https://drive.google.com/file/d/1zo7sfanQJvtEzsMBv7beAfQlB57AhYUm/view?usp=sharing
++ Seq 0071 https://drive.google.com/file/d/1vyGnN0_0aa0P3f1XGRa9kPIqbQqsmUp5/view?usp=sharing 
 + Seq 0103 https://drive.google.com/file/d/1I3I0SebfM5QjQE4oMZlfCHcmJcax_j67/view?usp=sharing
 
 ## Citation
