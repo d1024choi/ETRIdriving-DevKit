@@ -73,7 +73,7 @@ We show some visualization examples in the figure below.
 
 
 ## Download (To-be-updated)
-For sharing the sequences in the dataset, we have been applying some image processing (blurring face and license plate) to the front-view images in the sequences. Currently available sequences are 27 out of 129.
+For sharing the sequences in the dataset, we have been applying some image processing (blurring face and license plate) to the front-view images in the sequences. Currently available sequences are 30 out of 129.
 
 + Seq 0000 https://drive.google.com/file/d/1CLGkooc-_EDUqf4tV_HrRy7xe5aoWt0_/view?usp=sharing 
 + Seq 0004 https://drive.google.com/file/d/1w_-BxARRArAasanxUk0wWtBtohQlb4k_/view?usp=sharing
