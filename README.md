@@ -74,7 +74,9 @@ We show some visualization examples in the figure below.
 
 ## Download (To-be-updated)
 For sharing the sequences in the dataset, we have been applying some image processing (blurring face and license plate) to the front-view images in the sequences. 
+
 ------------------ Sequences used in the paper ------------------
+
 + Seq 0000 https://drive.google.com/file/d/1CLGkooc-_EDUqf4tV_HrRy7xe5aoWt0_/view?usp=sharing
 + Seq 0004 https://drive.google.com/file/d/1w_-BxARRArAasanxUk0wWtBtohQlb4k_/view?usp=sharing
 + Seq 0009 https://drive.google.com/file/d/1xrd8sUs9qJwnhFxmQz6bWUHMDq1AXfia/view?usp=sharing 
@@ -106,7 +108,9 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0084 https://drive.google.com/file/d/1BnAAuVLEFS7I-Lz3Kndz0y9Wq1bOO_3u/view?usp=sharing
 + Seq 0098 https://drive.google.com/file/d/1nGcC2Kig8usbWaZCEViAxRXgSk5Q1OJZ/view?usp=sharing
 + Seq 0103 https://drive.google.com/file/d/1I3I0SebfM5QjQE4oMZlfCHcmJcax_j67/view?usp=sharing
+
 ------------------ The rests ------------------
+
 + Seq 0001 https://drive.google.com/file/d/1uLW0imiV9X8xQfu0m0r5bBJo0y1PDvlA/view?usp=sharing
 + Seq 0002 https://drive.google.com/file/d/1IFHePUyI3oLZ6yX49hzN2Wzr3gRf05jf/view?usp=sharing
 
