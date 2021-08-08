@@ -115,7 +115,8 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0002 https://drive.google.com/file/d/1IFHePUyI3oLZ6yX49hzN2Wzr3gRf05jf/view?usp=sharing
 + Seq 0003 https://drive.google.com/file/d/1b1mhiGFlOgAm549VKaMrCD3pUu0oab6h/view?usp=sharing
 + Seq 0005 https://drive.google.com/file/d/1KoIzmp2jQiYJHAlfZyfQy3cAN_0A8pLX/view?usp=sharing
-
++ Seq 0006 https://drive.google.com/file/d/1I5lLLAigOv49tgBy3cYa4KP2QYHJrX7m/view?usp=sharing
++ Seq 0007 https://drive.google.com/file/d/1VEjC6QHCv0gabPaCbGVmEWfiu_-OChSf/view?usp=sharing
 ## Citation
 ```
 @article{Choi,
