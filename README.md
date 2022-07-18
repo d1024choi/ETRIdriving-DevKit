@@ -4,6 +4,7 @@
 [**Click the image above for video play!!**]
 
 ## Notice
++ [22-07-18] Our paper is finally accepted in ETRI journal. The official implementation of PathGAN presented in the paper can be found at https://github.com/d1024choi/pathgan_pytorch
 + [21-01-24] We open some sequences to the public. Links for the download can be found at the end of this webpage. We will release the rest of the sequences as soon as possible.
 + [21-02-19] We found that we missed some license plates and faces during the blurring process. We are now trying to fix it. If you find yourself or personal belongings in this dataset and feel unwell about it, please contact (d1024.choi@etri.re.kr) and we will immediately remove the respective data.
 + [21-05-10] We decided to upload the sequences used in the paper (see below) first and the rest after that.
@@ -16,7 +17,7 @@
 ![supple_fig1](./images/supple_fig1.png)
 
 
-## Annotation (To-be-updated)
+## Annotation 
 Three annotators, who had driven the vehicle, assigned one of the nine actions to each frame of the dataset. The annotators used the tool, which we developed based on PyQt, for the labeling process. The figure below shows a screen shot of the tool.
 
 ![annot1](./images/annot1.png)
@@ -72,10 +73,21 @@ We show some visualization examples in the figure below.
 ![supple_fig3](./images/supple_fig3.png)
 
 
-## Download (To-be-updated)
-For sharing the sequences in the dataset, we have been applying some image processing (blurring face and license plate) to the front-view images in the sequences. 
+## Citation
+```
+@article{Choi,
+author = {D. Choi and S.-J. Han and K. Min and J. Choi},
+title = {PathGAN: Local Path Planning with Attentive Generative Adversarial Networks},
+journal = {arXiv:2007.03877},
+year = 2021
+}
+```
 
------------------- Sequences used in the paper ------------------
+## The official implimentation of PathGAN
+GIT : https://github.com/d1024choi/pathgan_pytorch
+
+## Download 
+For sharing the sequences in the dataset, we have been applying some image processing (blurring face and license plate) to the front-view images in the sequences.
 
 + Seq 0000 https://drive.google.com/file/d/1CLGkooc-_EDUqf4tV_HrRy7xe5aoWt0_/view?usp=sharing
 + Seq 0004 https://drive.google.com/file/d/1w_-BxARRArAasanxUk0wWtBtohQlb4k_/view?usp=sharing
@@ -110,18 +122,6 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0103 https://drive.google.com/file/d/1I3I0SebfM5QjQE4oMZlfCHcmJcax_j67/view?usp=sharing
 
 
-## Citation
-```
-@article{Choi,
-author = {D. Choi and S.-J. Han and K. Min and J. Choi},
-title = {PathGAN: Local Path Planning with Attentive Generative Adversarial Networks},
-journal = {arXiv:2007.03877},
-year = 2021
-}
-```
-
-## The official implimentation of PathGAN
-GIT : https://github.com/d1024choi/pathgan_pytorch
 
 ## Copyright
 ETRIDriving is made available for academic use only. ETRIDriving is copyrighted by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. This means that you may not use this dataset for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
