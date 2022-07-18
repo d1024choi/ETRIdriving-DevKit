@@ -109,20 +109,6 @@ For sharing the sequences in the dataset, we have been applying some image proce
 + Seq 0098 https://drive.google.com/file/d/1nGcC2Kig8usbWaZCEViAxRXgSk5Q1OJZ/view?usp=sharing
 + Seq 0103 https://drive.google.com/file/d/1I3I0SebfM5QjQE4oMZlfCHcmJcax_j67/view?usp=sharing
 
------------------- The rests ------------------
-
-+ Seq 0001 https://drive.google.com/file/d/1uLW0imiV9X8xQfu0m0r5bBJo0y1PDvlA/view?usp=sharing
-+ Seq 0002 https://drive.google.com/file/d/1IFHePUyI3oLZ6yX49hzN2Wzr3gRf05jf/view?usp=sharing
-+ Seq 0003 https://drive.google.com/file/d/1b1mhiGFlOgAm549VKaMrCD3pUu0oab6h/view?usp=sharing
-+ Seq 0005 https://drive.google.com/file/d/1KoIzmp2jQiYJHAlfZyfQy3cAN_0A8pLX/view?usp=sharing
-+ Seq 0006 https://drive.google.com/file/d/1I5lLLAigOv49tgBy3cYa4KP2QYHJrX7m/view?usp=sharing
-+ Seq 0007 https://drive.google.com/file/d/1VEjC6QHCv0gabPaCbGVmEWfiu_-OChSf/view?usp=sharing
-+ Seq 0008 https://drive.google.com/file/d/1RLHYpVGQOy6dlmQkEZiBzigUZlIq-Dr4/view?usp=sharing
-+ Seq 0010 https://drive.google.com/file/d/1SINA4VwXhwKmqNogTMj5W3dm6yvtKsaK/view?usp=sharing
-+ Seq 0011 https://drive.google.com/file/d/1dFax9H0rB4eduQpzRE9ziPw-ISdAWuQa/view?usp=sharing
-+ Seq 0012 https://drive.google.com/file/d/1rC5HbMUYEzAVNEDloSn-ccQiqtNcP0w2/view?usp=sharing
-+ Seq 0014 https://drive.google.com/file/d/1DAOkYFfHYilriEPdvYCSxN89AJbambiL/view?usp=sharing
-+ Seq 0015 https://drive.google.com/file/d/1HNgA9KidpU2jhSdEQEBtZZadaGN-dxKx/view?usp=sharing
 
 ## Citation
 ```
@@ -133,6 +119,9 @@ journal = {arXiv:2007.03877},
 year = 2021
 }
 ```
+
+## The official implimentation of PathGAN
+GIT : https://github.com/d1024choi/pathgan_pytorch
 
 ## Copyright
 ETRIDriving is made available for academic use only. ETRIDriving is copyrighted by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. This means that you may not use this dataset for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
